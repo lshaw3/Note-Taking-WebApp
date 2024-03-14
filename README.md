@@ -1,2 +1,4 @@
 # Note-Taking-WebApp
-Uses user authentication and databases to keep track of notes for a given user.
+Uses Flask, Flask-login, and flask_sqlalchemy as well as a little JS.
+
+Uses user authentication (using hashing to ensure safe password storage) to store user notes in the database.
